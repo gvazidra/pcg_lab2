@@ -122,6 +122,6 @@ Compression: jpeg
 
 ---
 
-Скачать приложение
+## **Скачать приложение**
 Скачать приложение можно по ссылке:
 https://drive.google.com/drive/folders/1JfATmJvh15ieqNzbSwsGjBfl4cBUu69J
